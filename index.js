@@ -9,9 +9,9 @@ function nameToAttributes(drivers) {
       'lastName': driver.split(' ')[1]
     }
     return obj
-  }
+  })
 }
 
 function attributesToPhrase(drivers) {
-  return drivers.map((driver) => return `${driver.name} is from ${driver.hometown}`)
+  return drivers.map((driver) => `${driver.name} is from ${driver.hometown}`)
 }
