@@ -1,0 +1,71 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 1,
+    "start": "2018-10-10T03:12:43.541Z",
+    "end": "2018-10-10T03:12:44.337Z",
+    "duration": 796
+  },
+  "tests": [
+    {
+      "title": "uses the Array map method",
+      "fullTitle": "index.js lowerCaseDrivers() uses the Array map method",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns all drivers lowercased",
+      "fullTitle": "index.js lowerCaseDrivers() returns all drivers lowercased",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "does not modify the original array",
+      "fullTitle": "index.js lowerCaseDrivers() does not modify the original array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "uses the Array map method",
+      "fullTitle": "index.js nameToAttributes() uses the Array map method",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: nameToAttributes is not defined\n    at Context.it (test/indexTest.js:66:7)",
+        "message": "nameToAttributes is not defined"
+      }
+    }
+  ],
+  "passes": [
+    {
+      "title": "uses the Array map method",
+      "fullTitle": "index.js lowerCaseDrivers() uses the Array map method",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns all drivers lowercased",
+      "fullTitle": "index.js lowerCaseDrivers() returns all drivers lowercased",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "does not modify the original array",
+      "fullTitle": "index.js lowerCaseDrivers() does not modify the original array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
