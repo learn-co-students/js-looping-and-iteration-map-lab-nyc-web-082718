@@ -5,22 +5,22 @@
     "passes": 7,
     "pending": 0,
     "failures": 0,
-    "start": "2018-10-10T13:21:41.785Z",
-    "end": "2018-10-10T13:21:42.532Z",
-    "duration": 747
+    "start": "2018-10-11T18:30:59.768Z",
+    "end": "2018-10-11T18:31:00.558Z",
+    "duration": 790
   },
   "tests": [
     {
       "title": "uses the Array map method",
       "fullTitle": "index.js lowerCaseDrivers() uses the Array map method",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns all drivers lowercased",
       "fullTitle": "index.js lowerCaseDrivers() returns all drivers lowercased",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -66,14 +66,14 @@
     {
       "title": "uses the Array map method",
       "fullTitle": "index.js lowerCaseDrivers() uses the Array map method",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns all drivers lowercased",
       "fullTitle": "index.js lowerCaseDrivers() returns all drivers lowercased",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
